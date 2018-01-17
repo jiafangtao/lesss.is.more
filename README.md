@@ -24,3 +24,6 @@ twitter_text: 'How to speak with Lorem'
 ---
 ```
 
+And preview it here:
+
+http://www.brucejia.net/
