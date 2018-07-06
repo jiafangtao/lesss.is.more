@@ -19,8 +19,7 @@ Monthly Checked Sheet
 
 ### Quick Links:
 
-[Github](https://stackoverflow.com/users/1874823/bruce-jia)
+[Github](https://github.com/jiafangtao/)
 
-StackOverflow Profile
-
+[StackOverflow Profile](https://stackoverflow.com/users/1874823/bruce-jia)
 
