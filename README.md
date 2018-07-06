@@ -31,6 +31,9 @@ http://www.brucejia.net/
 
 ###Build your local Jekyll site###
 
+*Tips: I added a script `start.sh` to save my time and memory as I'm not good at remember command like below.*
+
+
 Navigate into the root directory of your local Jekyll site repository.
 
 Run your Jekyll site locally:
@@ -50,3 +53,6 @@ Configuration file: /Users/octocat/my-site/_config.yml
  Server running... press ctrl-c to stop.
 
 Preview your local Jekyll site in your web browser at http://localhost:4000.
+
+### Github Markdown Reference ###
+[mastering-markdown](https://guides.github.com/features/mastering-markdown/)
