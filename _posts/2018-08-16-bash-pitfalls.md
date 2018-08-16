@@ -15,6 +15,18 @@ series: making progress
 
 坑之一：变量赋值
 
+*错误的写法：*
+```
+myvar = "hello, world"
+```
+
+*正确的写法：*
+```
+myvar="hello, world"
+```
+*原因：*
+等号左右不能有空格
+
 坑之二：判等
 
 坑之三：
