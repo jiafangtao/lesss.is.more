@@ -49,12 +49,15 @@ fi
 ```
 
 *原因*
-Bash会报错，大概是说 [: integer expression expected”.
+
+Bash会报错，大概是说 \[: integer expression expected”.
 这是因为-eq是用来比较整型的，而不是比较字符串。字符串的比较使用等号(=)就可以了。
 
 
 
 坑之三： 中括号后面的空格
+
+https://unix.stackexchange.com/questions/99185/what-do-square-brackets-mean-without-the-if-on-the-left
 
 坑之四： $?
 
