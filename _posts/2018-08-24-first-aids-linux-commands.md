@@ -46,8 +46,9 @@ series: notes
 
 #### `du` command
 
-`# Show total file size of current directory`
+
 ```
+  # Show total file size of current directory
   $ du -sh .
 ```
 
