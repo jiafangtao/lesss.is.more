@@ -52,4 +52,5 @@ series: notes
   $ du -sh .
 ```
 
+### `lsof` command
 
