@@ -16,24 +16,24 @@ categories:
 series: notes
 ---
 
-###Linux Commands for Devs who are acting Ops 
+### Linux Commands for Devs who are acting Ops 
 
-`uptime` command
+#### `uptime` command
 
-`> uptime --since`
+`$ uptime --since`
 
-`top` command
+#### `top` command
 
-`top -p <pid>`
-`top -p <pid> -H`
+`$ top -p <pid>`
+`$ top -p <pid> -H`
 
-`ps` commmand
+#### `ps` commmand
 
-`tail` command
+#### `tail` command
 
-`du` command
+#### `du` command
 
-# Show total file size of current directory
-`du -sh .`
+`# Show total file size of current directory`
+`$ du -sh .`
 
 
