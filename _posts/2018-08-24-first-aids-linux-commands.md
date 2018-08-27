@@ -20,10 +20,20 @@ series: notes
 
 `uptime` command
 
-> uptime --since
+`> uptime --since`
 
 `top` command
+
+`top -p <pid>`
+`top -p <pid> -H`
 
 `ps` commmand
 
 `tail` command
+
+`du` command
+
+# Show total file size of current directory
+`du -sh .`
+
+
