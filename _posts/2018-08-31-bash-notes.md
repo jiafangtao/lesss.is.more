@@ -48,3 +48,19 @@ A: TODO
 ### $@
 
 ### env
+显示当前所有的环境变量，跟Windows上的SET命令是一样的。例如查看某个环境变量
+```env | grep AWS_REGION```
+
+### test
+
+计算(评估)表达式的值，如果表达式返回true则这个命令返回0，否则返回1。
+语法：
+  ```test expression```
+
+中括号[是test的别名，在脚本中常常见到。语法如下：
+
+```[ expression ]```
+
+例如：
+
+```[ -d /usr/local/tomcat/ ]``` 检查tomcat文件夹
