@@ -34,7 +34,7 @@ series: notes
 
       -a   The shell passes name as the zeroth argument to command.
       
-当`command`被提供是，这个`command`会替代当前的shell, 而不创建新的进程。如果没有指定执行的命令，重定向会被用来影响当前的shell环境。
+当`command`被提供时，这个`command`会替代当前的shell, 而不创建新的进程。如果没有指定执行的命令，重定向会被用来影响当前的shell环境。
 (BJ: 不明白这一段的意思，囧)
 
 要从命令行运行一个可执行文件或一个Shell脚本，通常根本就不需要用到`exec`, 更常见的做法是用“./”后面接要执行的可执行文件或脚本，例如 `./hello.out`
