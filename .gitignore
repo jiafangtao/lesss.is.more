@@ -1,8 +1,4 @@
-_site/README.md
-_site/CNAME
-_site/feed.xml
-
-_site/**
+_site/*
 
 
 npm-debug.log
