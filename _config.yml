@@ -18,7 +18,7 @@ highlighter: rouge
 permalink: /:title/
 
 # theme
-theme: minimal
+theme: jekyll-theme-minimal
 
 # html minify
 compress_html:
@@ -46,4 +46,4 @@ projects:
   - name: player.js
     url: https://github.com/jiafangtao/player.js 
 # exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ['package.json', 'src', 'node_modules', 'start.sh']
