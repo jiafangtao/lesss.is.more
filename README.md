@@ -1,7 +1,5 @@
-# This site is using theme "Space Jekyll"
+# This is a weblog using Jekyll
 
-
-See a live demo for the theme [here](https://victorvoid.github.io/space-jekyll-template/).
 
 
 ### Preview it lively online:
