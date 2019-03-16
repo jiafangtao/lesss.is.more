@@ -2,7 +2,7 @@
 title: Bruce Jia - Software Developer
 description: "Yet another blog which will long last... really?"
 baseurl: "" # set this to url like '/blog'
-url: "http://brucejia.net/" # set this to real url. Especially if you have your own domain name.
+url: "http://brucejia.net" # set this to real url. Especially if you have your own domain name.
 # User settings
 username: Bruce Jia
 user_title: Bruce Jia
