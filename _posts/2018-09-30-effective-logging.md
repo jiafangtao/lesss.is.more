@@ -18,7 +18,7 @@ series: notes
 Here comes microservices. Here we get hundreds of running nodes. And we get tons of logs.
 Then, we get lost in the logs, because most of the logs are not effective, or not so effective.
 
-###Lesson learned from my projects
+### Lesson learned from my projects
 
 - No session-id or track-id in the design
 
