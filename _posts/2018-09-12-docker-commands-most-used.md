@@ -31,15 +31,23 @@ Run a docker container from an image. Most used options are:
 
 ### docker inspect
 
+Show low-level details of containers, specified by id or name.
+
 ### docker attach
 
 Attach to the container's STDIN, STDOUT and STDERR. This is very useful to do trouble-shooting or monitoring when the container was launched in background mode, i.e. detached mode.
 
 ### docker ps
 
+Just like Linux `ps` command, this lists all running containers.
+
 ### docker images
 
+List all docker images available on this machine.
+
 ### docker rename
+Rename a docker container to a new name
 
 ### docker rmi
 
+Remove a docker image
