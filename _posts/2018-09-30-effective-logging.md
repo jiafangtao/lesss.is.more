@@ -19,11 +19,16 @@ Here comes microservices. Here we get hundreds of running nodes. And we get tons
 Then, we get lost in the logs, because most of the logs are not effective, or not so effective.
 
 
-ELK
+### ELK
 
 ELK is a popular suite as an infrastrcture for distributed systems. ELK means elasticsearch, logstash and kibana.
 
 Typical distributed logging solutions and architectures 
 
 *TODO: add diagrams here*
+
+
+### Logging in your single app
+
+### NewRelic
 
