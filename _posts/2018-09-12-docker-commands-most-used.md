@@ -51,3 +51,17 @@ Rename a docker container to a new name
 ### docker rmi
 
 Remove a docker image
+
+
+## docker compose commands
+
+### docker-compose up
+Start up the services defined in the default configuration file, which is docker-compose.yml
+
+### docker-compose down
+Stop all services which were brought up previous by a `docker-compose up` command. It will delete the containers after stop them. The docker network created will also be destroyed gracefully.
+
+Other than `docker-compose down`, if you hit `ctrl-c` the containers will be stopped while not deleted. And the docker network will remain there. So it's recommended to use this command to take the services down gracefully.
+
+### docker-compose exec
+This is identical to `docker exec`. You can execute a command in a selected service.
