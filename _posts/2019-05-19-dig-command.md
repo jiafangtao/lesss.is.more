@@ -76,3 +76,14 @@ $ dig www.sina.com CNAME
 
 www.sina.com.		300	IN	CNAME	us.sina.com.cn.
 
+
+### 从指定的服务器查询DNS信息
+上面的查询都没有指定特定的DNS服务器，有时候本地的DNS服务器可能不是很准确，这样我们需要去查询权威一点的服务器，例如谷歌，godaddy或国内的dnspod。
+
+$ dig @target-dns.com foo.bar.com
+
+命令中在@的后面加上DNS服务器的地址即可。
+
+
+
+【参考】学习过程中参考了man page - dig 以及部分例如https://www.imooc.com/article/26971?block_id=tuijian_wz 
