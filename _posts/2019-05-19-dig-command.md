@@ -85,5 +85,24 @@ $ dig @target-dns.com foo.bar.com
 命令中在@的后面加上DNS服务器的地址即可。
 
 
+### 反向查询某个DNS服务器
+
+$ dig -x 8.8.8.8
+
+; <<>> DiG 9.8.3-P1 <<>> -x 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53894
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+
+;8.8.8.8.in-addr.arpa.		IN	PTR
+
+;; ANSWER SECTION:
+
+8.8.8.8.in-addr.arpa.	1044	IN	PTR	google-public-dns-a.google.com.
+
+
 
 【参考】学习过程中参考了man page - dig 以及部分例如https://www.imooc.com/article/26971?block_id=tuijian_wz 
