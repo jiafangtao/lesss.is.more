@@ -19,7 +19,7 @@ series: notes
 
 dig (dns information groper)
 
-查询单个主机的信息
+### 查询单个主机的信息
 $ dig foo.bar.com
 
 结果中的Anwser Section就是该主机的信息，例如IP地址
@@ -63,4 +63,16 @@ https.qq.com.		300	IN	A	61.129.7.47
 可以看出来www.qq.com是一个CNAME。它实际上指向了https.qq.com.这个域，而它的ip是61.129.7.47。你
 可以试着在浏览器中输入https://61.129.7.47/看看是什么结果。
 
+### 查询主机的CNAME
+$ dig www.sina.com CNAME
+
+得到的结果片段如下
+
+;; QUESTION SECTION:
+
+;www.sina.com.			IN	CNAME
+
+;; ANSWER SECTION:
+
+www.sina.com.		300	IN	CNAME	us.sina.com.cn.
 
