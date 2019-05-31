@@ -18,7 +18,7 @@ highlighter: rouge
 permalink: /:title/
 
 # theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 # html minify
 compress_html:
