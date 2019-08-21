@@ -34,6 +34,6 @@ D项目是2016年底开始开发的，那个时候基本节奏就是赶进度啊
  {% include book-refactory.html %}
  {% include book-design-patterns.html %}
  
- {% book-art-of-unit-testing.html %}
+ {% include book-art-of-unit-testing.html %}
 
 Tags: #单元测试 #单元测试的艺术 #重构 #设计模式
