@@ -106,3 +106,7 @@ $ dig -x 8.8.8.8
 
 
 【参考】学习过程中参考了man page - dig 以及部分例如https://www.imooc.com/article/26971?block_id=tuijian_wz 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-cn.amazon-adsystem.com/e/cm?ref=tf_til&t=brucejia_blog-23&m=amazon&o=28&p=8&l=as1&IS2=1&asins=B079GKJY5N&linkId=7e5a5ff5acf1fbdec8b329f6ab4deec2&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+    
