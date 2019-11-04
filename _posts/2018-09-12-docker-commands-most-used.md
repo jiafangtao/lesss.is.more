@@ -3,6 +3,7 @@ layout: post
 title: "Docker常用命令"
 image: ''
 date: 2018-09-12 09:45:00 +0800
+updated: 2019-04-03 16:00:00 +0800
 tags: 
   - docker  
 description: "整理总结一些常用的docker命令"
@@ -51,7 +52,9 @@ Rename a docker container to a new name
 ### docker rmi
 
 Remove a docker image
+
 e.g. docker rmi fce289e99eb9
+
 
 ## docker compose commands
 
