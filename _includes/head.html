@@ -7,9 +7,6 @@
 
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <!-- Google Authorship Markup -->
-    <link rel="author" href="https://plus.google.com/{{site.gplus_username}}?rel=author">
-
     <!-- Social Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter_username}}">
@@ -64,6 +61,12 @@
     <meta name="theme-color" content="#5d4d7a">
 
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+    <style>
+        .bgbody {
+            background-image: url('assets/img/aboutme/baqiao.jpeg');
+        }
+    </style>
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
