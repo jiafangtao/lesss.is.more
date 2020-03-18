@@ -64,3 +64,7 @@ A: TODO
 例如：
 
 ```[ -d /usr/local/tomcat/ ]``` 检查tomcat文件夹
+
+This is the most useful post about *.bashrc* and *.bash_profile*
+
+http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
