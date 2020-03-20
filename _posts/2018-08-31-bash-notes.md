@@ -70,6 +70,7 @@ This is the most useful post about *.bashrc* and *.bash_profile*
 [http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html](http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html)
 
 Personal bash aliases to save a lot of keyboard hits
+```
 #
 # aliases for docker-compose
 #
@@ -89,3 +90,4 @@ alias gb='git branch'
 alias gco='git checkout'
 alias gl='git log'
 
+```
