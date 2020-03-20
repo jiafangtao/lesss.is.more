@@ -68,3 +68,24 @@ A: TODO
 This is the most useful post about *.bashrc* and *.bash_profile*
 
 [http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html](http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html)
+
+Personal bash aliases to save a lot of keyboard hits
+#
+# aliases for docker-compose
+#
+alias dcbuild='docker-compose build'
+alias dcup='docker-compose up'
+alias dcdown='docker-compose down'
+alias dcps='docker-compose ps'
+alias dcexec='docker-compose exec'
+
+#
+# aliases for git
+#
+alias gs='git status'
+alias gc='git commit'
+alias gp='git push'
+alias gb='git branch'
+alias gco='git checkout'
+alias gl='git log'
+
