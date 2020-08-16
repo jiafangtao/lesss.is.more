@@ -26,3 +26,7 @@ Internals:
 
 我最近几天在web_programming项目里边试了下简单的用法。希望能在nc项目里边实战，积累经验。
 如果parcelJS功能足够了，就用它了。
+
+# uglifyjs
+
+uglifyjs是另一个在试验的小工具，简单易用。需要跟CI集成一下，跟parceljs, gulp怎么集成还需要进一步研究。
