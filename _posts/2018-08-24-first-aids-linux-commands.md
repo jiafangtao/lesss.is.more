@@ -18,6 +18,21 @@ series: notes
 
 ### Linux Commands for Devs who are acting Ops 
 
+#### `find` command
+```
+  在当前文件夹及子文件夹中（递归）查找所有以lock结尾的Python文件
+  $ find . -type file -name "*lock.py"
+  
+  在当前文件夹中查找所有Python文件（不查找子文件夹）
+  $ find . -type file -depth 1 -name "*.py"
+  
+  在多个文件夹中查找所有shell文件
+  $ find ./folder1 ./folder2 -name "*.sh"
+  
+  在当前文件夹下查找5分钟之内被修改的文件，并排序
+  $ find -s . -ctime -5m
+```
+
 #### `uptime` command
 
 ```
