@@ -34,6 +34,9 @@ series: notes
   
   在当前文件夹下找出空的log文件
   $ find . -name "*.log" -empty
+  
+  在当前文件夹下找出".test"为后缀的文件并打印文件内容到终端
+  $ find . -name "*.test" -depth 1 -exec cat {} ";"
 ```
 
 #### `uptime` command
