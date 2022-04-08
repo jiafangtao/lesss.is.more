@@ -31,6 +31,9 @@ series: notes
   
   在当前文件夹下查找5分钟之内被修改的文件，并排序
   $ find -s . -ctime -5m
+  
+  在当前文件夹下找出空的log文件
+  $ find . -name "*.log" -empty
 ```
 
 #### `uptime` command
