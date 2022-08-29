@@ -75,3 +75,12 @@ series: notes
 
 ### `lsof` command
 
+```
+  # Show open files of a given process
+  $ lsof -p <pid>
+  e.g. $ lsof -p 28805
+  # Show open files of a list of processes
+  lsof -p '''28805,28806'''
+  
+  
+```
