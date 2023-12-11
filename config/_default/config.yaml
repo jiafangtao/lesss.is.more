@@ -34,6 +34,6 @@ permalinks:
 # module:
   # proxy: https://goproxy.cn
 
-# services:
-#   disqus:
-#     shortname: your-disqus-shortname
+services:
+  googleAnalytics:
+    ID: G-73CR7WMG1R
