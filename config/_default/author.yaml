@@ -1,7 +1,7 @@
 name: Bruce Jia
 # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
 bio: 'Software Engineer(coding in C++, JAVA, Go, Python, Bash, etc.), living in Shanghai, China.'
-company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+company: TheGreatCompany # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: Shanghai, China # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
 # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
 params: {
