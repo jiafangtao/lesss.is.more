@@ -4,6 +4,8 @@ title: "Knowledge Base - JAVA"
 image: ''
 date: 2019-03-27 13:15:00 +0800
 updated: 2019-03-27 15:17 +0800
+authors:
+- brucejia
 tags: 
   - java
   - jvm

@@ -2,6 +2,8 @@
 layout: post
 title: "golang中的channel和routine"
 date: 2022-12-20 14:44:00
+authors:
+- brucejia
 tags: 
   - golang
   - gorountine

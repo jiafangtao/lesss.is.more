@@ -3,6 +3,8 @@ layout: post
 title: "Geoserver Notes"
 image: ''
 date: 2019-12-14 09:52:00
+authors:
+- brucejia
 tags: 
 - geoserver
 - GIS

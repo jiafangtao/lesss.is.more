@@ -3,6 +3,8 @@ layout: post
 title: "急救手册之常用Linux命令"
 image: ''
 date: 2018-08-24 15:40:00 +0800
+authors:
+- brucejia
 tags: 
   - linux 
   - devops 

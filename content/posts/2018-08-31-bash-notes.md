@@ -3,6 +3,8 @@ layout: post
 title: "Linux Bash笔记"
 image: ''
 date: 2018-08-31 15:35:00 +0800
+authors:
+- brucejia
 tags: 
   - linux 
   - bash 

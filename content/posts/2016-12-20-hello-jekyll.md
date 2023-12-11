@@ -9,6 +9,8 @@ categories:
 - Writtings
 series: 
 - "born to try"
+authors:
+- brucejia
 ---
 
 

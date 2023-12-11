@@ -4,6 +4,8 @@ title: "Docker常用命令"
 image: ''
 date: 2018-09-12 09:45:00 +0800
 updated: 2019-04-03 16:00:00 +0800
+authors:
+- brucejia
 tags: 
   - docker  
 description: "整理总结一些常用的docker命令"

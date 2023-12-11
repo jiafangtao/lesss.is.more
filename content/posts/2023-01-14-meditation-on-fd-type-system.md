@@ -2,6 +2,8 @@
 layout: post
 title: "Meditation on FD Type System"
 date: 2023-01-11 20:34:00
+authors:
+- brucejia
 tags: 
   - notes
   - type system

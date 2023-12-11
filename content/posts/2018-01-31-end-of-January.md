@@ -2,6 +2,8 @@
 layout: post
 title: "End of January"
 date: 2018-01-31 09:00:00 +0800
+authors:
+- brucejia
 series: 
 - summary
 categories:

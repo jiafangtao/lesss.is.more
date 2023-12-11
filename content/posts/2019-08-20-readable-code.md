@@ -3,6 +3,8 @@ layout: post
 title: "关于代码可读性的一些絮絮叨叨"
 image: ''
 date: 2019-08-20 13:15:00 +0800
+authors:
+- brucejia
 updated: 2019-08-21 12:17 +0800
 tags: 
   - programming
