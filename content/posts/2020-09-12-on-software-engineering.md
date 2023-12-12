@@ -2,6 +2,8 @@
 layout: post
 title: "现今的软件工程能帮助我们解决什么问题"
 date: 2020-09-12 15:58:00
+authors:
+- brucejia
 tags:
 - software engineering
 description: "What software engineering can do for the modern software industry"

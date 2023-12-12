@@ -3,6 +3,8 @@ layout: post
 title: "【2018年3月】技术书籍阅读感悟"
 image: ''
 date: 2018-02-29 13:00:00 +0800
+authors:
+- brucejia
 tags:
 description: ""
 categories:

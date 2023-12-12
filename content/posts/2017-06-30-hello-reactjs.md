@@ -2,6 +2,8 @@
 layout: post
 title: "Hello ReactJS"
 date: 2017-06-30 15:58:00
+authors:
+- brucejia
 tags: 
 description: ""
 categories: programming

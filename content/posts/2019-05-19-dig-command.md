@@ -4,6 +4,8 @@ title: "Linux Commands - dig"
 image: ''
 date: 2019-05-19 22:35:00 +0800
 updated: 2019-05-19 22:35 +0800
+authors:
+- brucejia
 tags: 
   - linux
   - networking

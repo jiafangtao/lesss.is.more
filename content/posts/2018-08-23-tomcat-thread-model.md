@@ -2,6 +2,8 @@
 layout: post
 title: "Tomcat Thread Model"
 date: 2017-06-30 15:58:00
+authors:
+- brucejia
 tags: 
 - java
 - tomcat

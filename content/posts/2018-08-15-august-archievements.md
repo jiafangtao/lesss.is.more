@@ -3,6 +3,8 @@ layout: post
 title: "August 2018 - the archievements"
 image: ''
 date: 2018-08-15 10:03:00 +0800
+authors:
+- brucejia
 tags:
 description: "What have you achieved during last two weeks as of August 2018?"
 categories:

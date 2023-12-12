@@ -4,6 +4,8 @@ title: "Effective Logging"
 image: ''
 date: 2018-09-30 09:45:00 +0800
 updated: 2019-03-16 9:20 +0800
+authors:
+- brucejia
 tags: 
   - docker  
 description: "How to write effective logs for your service?"

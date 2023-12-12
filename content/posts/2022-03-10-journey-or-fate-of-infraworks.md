@@ -2,6 +2,8 @@
 layout: post
 title: "旅程还是宿命"
 date: 2022-03-10 12:34:00
+authors:
+- brucejia
 tags:
 - infraworks
 description: "回顾过去八年时间里对于Infraworks这个产品的所思所感"
