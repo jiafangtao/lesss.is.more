@@ -1,6 +1,6 @@
 ---
 # type: docs 
-title: R.I.P Zhouhaimei
+title: R.I.P ZhouHaiMei
 date: 2023-12-13T08:13:45+08:00
 featured: false
 draft: false
@@ -15,7 +15,7 @@ tags: ["八卦之心", "愚者文摘"]
 images: []
 ---
 
-{{/% clearfix %/}}![Image](zhouhaimei.png?width=600px#float-start){{/% /clearfix %/}}
+![Image](zhouhaimei.png?width=600px#float-start)
 
 送别周海媚 - 女神挥一挥衣袖，不带走一片云彩
 
