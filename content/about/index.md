@@ -6,4 +6,5 @@ postDate = false
 readingTime = false
 +++
 
-Hi there, I'm XXX.
+As you might already know from the home page ...
+
