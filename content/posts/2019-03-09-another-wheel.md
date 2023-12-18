@@ -1,4 +1,24 @@
-### Why do you invent another wheel? And then throw it away?
+---
+layout: post
+title: "Why another wheel"
+image: ''
+date: 2019-03-09 22:35:00 +0800
+updated: 2019-03-09 22:35 +0800
+authors:
+- brucejia
+tags: 
+  - spring
+
+categories:
+- Writtings
+- Knowlege Base
+
+series:
+- notes
+---
+
+
+Why do you invent another wheel? And then throw it away?
 
 
 #### Rule 0 - Don't invent wheels.
