@@ -3,7 +3,7 @@ layout: post
 title: "Docker常用命令"
 image: ''
 date: 2018-09-12 09:45:00 +0800
-updated: 2019-04-03 16:00:00 +0800
+updated: 2023-12-19 08:18:00 +0800
 featured: true
 authors:
 - brucejia
@@ -55,9 +55,11 @@ Rename a docker container to a new name
 
 ### docker rmi
 
-Remove a docker image
+Remove a docker image by image id or human readable tag
 
 e.g. docker rmi fce289e99eb9
+
+e.g. docker rmi busybox:latest
 
 
 ## docker compose commands
@@ -74,28 +76,5 @@ Other than `docker-compose down`, if you hit `ctrl-c` the containers will be sto
 This is identical to `docker exec`. You can execute a command in a selected service.
 
 
-Docker即学即用
-O'reily的动物书
 
-<script type="text/javascript" >
-<!--
-dd_ad_output="html";
-dd_ad_width=180;
-dd_ad_height=282;
-dd_ad_client="P-314444";
-dd_ad_format=20;
-dd_ad_id=0;
-dd_product_id=23831281;
-dd_img_size=150;
-dd_display_style=0;
-dd_text_url="";
-dd_color_text="";
-dd_color_bg="";
-dd_open_target="_blank";
-dd_border=0;
-dd_color_link="";
-dd_ad_text="";
-//--></script>
-<script type="text/javascript" src="http://union.dangdang.com/union/script/dd_ads.js" ></script>
-
-
+{{<ads/dangdang_book_oreiley_docker>}}
