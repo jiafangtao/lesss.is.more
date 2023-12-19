@@ -1,19 +1,17 @@
 ---
 layout: post
 title: "如何修改Sublime Text 3中侧边栏字体大小"
-date: 2023-12-19 11:21:00
+date: 2023-12-19 11:21:00+08:00
 authors:
 - brucejia
 tags: 
   - sublime
   - tips
-description: "google找了好几个帖子只有这个靠谱"
+description: ""
 categories: "小技巧"
 
 ---
 
-
-### 如何修改Sublime Text 3侧边栏字体大小
 
 自从老花眼之后看比较小的字体都非常吃力，翩翩最爱的编辑器Sublime Text 3的缺省字体非常小。对于主编辑区域来说调整字体非常easy,按住Control键滚动鼠标中键就可以了。但是对于侧边栏怎么办？
 
