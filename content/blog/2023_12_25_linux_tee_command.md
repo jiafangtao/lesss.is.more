@@ -2,7 +2,8 @@
 # type: docs 
 title: Linux的tee命令
 date: 2023-12-25T07:57:47+08:00
-featured: false
+description: "介绍一个简单好用的小工具tee，让你的bash神功功力又进一层"
+featured: true
 draft: false
 comment: true
 toc: true
@@ -13,10 +14,11 @@ series:
 - bash commands
 categories: ["Linux"]
 tags: ["Linux", "Bash", "Tips"]
-images: []
+images: ["images/linux.jpg"]
 ---
 
 对于Linux上面的重定向，大家都很熟悉。例如最常见的用法就是讲一个程序的输出重定向到一个文件里边去。
+
 
 ```
 $ ls -la $HOME > /tmp/filelist.txt
