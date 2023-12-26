@@ -7,15 +7,15 @@ authors:
 tags: 
   - sublime
   - tips
-description: ""
+description: "最爱的编辑器Sublime Text 3的侧边栏字体非常小，怎么破？"
 categories: "小技巧"
 
 ---
 
 
-自从老花眼之后看比较小的字体都非常吃力，翩翩最爱的编辑器Sublime Text 3的缺省字体非常小。对于主编辑区域来说调整字体非常easy,按住Control键滚动鼠标中键就可以了。但是对于侧边栏怎么办？
+自从老花眼之后看比较小的字体都非常吃力，翩翩最爱的编辑器Sublime Text 3的缺省字体非常小。对于主编辑区域来说调整字体非常easy,按住**Control键**滚动鼠标中键就可以了。但是对于**侧边栏** (sidebar)怎么办？
 
-求助谷歌，翻了几个帖子之后还是找到了这个最靠谱的方法。
+求助*谷歌*，翻了几个帖子之后还是找到了这个最靠谱的方法。
 
 链接：[https://forum.sublimetext.com/t/increase-side-of-the-ui-menus-folders-etc/46704/3](https://forum.sublimetext.com/t/increase-side-of-the-ui-menus-folders-etc/46704/3)
 
