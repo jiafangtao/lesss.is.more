@@ -3,20 +3,28 @@
 title: Cheat Sheet for Git Credential Commands
 date: 2023-12-12T08:44:47+08:00
 authors: brucejia
+description:
 featured: false
-draft: true
+draft: false
 comment: true
 toc: true
 reward: true
 pinned: false
-carousel: false
+carousel: true
 series:
 categories: ["tools", "programming"]
 tags: ["git", "cheatsheet"]
 images: ["images/git-logo.png"]
 ---
 
-Git is a lightweight tool which is mainly used to track versions of your source code (or other text-based files.) When working with a git server, you are always prompted to input your username and password (PAT, i.e. Personal Access Token, is a better way than main password.) again and again. 
+Git credential helpers can save you a lot of time to avoid repeatively type in your username and password again and again.
+
+<!--more-->
+Git is a lightweight tool which is mainly used to track versions of your source code (or other text-based files.) 
+
+<!--more-->
+
+When working with a git server, you are always prompted to input your username and password (PAT, i.e. Personal Access Token, is a better way than main password.) again and again. 
 
 To save your time, git offers some credential helpers which are quite nice. Open a terminal and run such a (shell) **command**
 
