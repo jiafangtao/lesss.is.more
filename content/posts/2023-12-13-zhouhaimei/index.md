@@ -2,6 +2,7 @@
 # type: docs 
 title: R.I.P ZhouHaiMei
 date: 2023-12-13T08:13:45+08:00
+updated: 2023-12-26T22:49:00+08:00
 featured: false
 draft: false
 comment: true
@@ -12,14 +13,14 @@ carousel: false
 series:
 categories: []
 tags: ["八卦之心", "愚者文摘"]
-images: []
+images: ["images/zhouhaimei.png"]
 ---
 
-![Image](zhouhaimei.png?width=600px#float-start)
 
-送别周海媚 - 女神挥一挥衣袖，不带走一片云彩
+愿逝者安息！ 送别周海媚 - 女神挥一挥衣袖，不带走一片云彩
 
-愿逝者安息！
+<!--more-->
+
 
 周海媚这个名字，应该能够勾起许多中年油腻男人的记忆。在那个娱乐并不致死的年代，我和很多同龄人一样，在某个不知名的小镇上做题。港台的明星们已经在纸醉金迷的商业社会里呼风唤雨，但是还没有几个人懂“爱豆”这个资产阶级的洋词汇，更没有人能够
 预测到粉丝经济的蓬勃发展。那个时候的人民群众，普遍懵懂，对于明星的喜爱，很直接很单纯。周海媚是除了米雪之外极少数我叫得出名字来的女明星。
