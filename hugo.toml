@@ -1,4 +1,4 @@
-baseURL = 'http://brucejia.net/'
+baseURL = 'https://brucejia.net/'
 languageCode = 'en-us'
 title = 'Panda Talks - My New Hugo Site'
 theme = 'ananke'

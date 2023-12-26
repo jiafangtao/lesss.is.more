@@ -1,6 +1,6 @@
 main:
-  - name: Blogs
-    identifier: blogs
-    url: http://brucejia.net/blogs/
+  - name: Posts
+    identifier: posts
+    pageRef: /posts
     params:
       icon: '<i class="fas fa-fw fa-book"></i>'
