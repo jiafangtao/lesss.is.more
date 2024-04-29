@@ -42,7 +42,7 @@ palette: purple # Default palette. Optional. You'll need to clear the browser ca
 dateFormat: ":date_long"
 
 # Google Adsense
-googleAdsense: "ca-pub-3269108242586864"
+googleAdsense: 
 
 # math: true # Enable math globally.
 # toc: false # Disable TOC globally.
