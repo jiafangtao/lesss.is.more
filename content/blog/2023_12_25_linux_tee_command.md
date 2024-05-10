@@ -75,3 +75,4 @@ drwxr-x--- 27 bruce bruce 4096 12月 25 07:57 bruce
 ```
 
 Tags: Linux, Bash, tee, pipes, redirection
+标签：Linux, Bash, tee, 管道, 重定向
